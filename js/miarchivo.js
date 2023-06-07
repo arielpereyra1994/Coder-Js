@@ -1,23 +1,3 @@
-// let numero = prompt("Ingrese un numero");
-// let multiplos = 0
-
-// function tabla(){
-//     for (let i = 1; i <=10 ; i++){
-//         multiplos = numero * i;
-        
-//         alert(multiplos)
-        
-
-
-//     } 
-//     if (numero === 0){
-//         alert("El numero ingresado no es correcto");
-//     } else {
-        
-//     }
-// }
-// tabla()
-
 
 //Aca se crea la funcion
 function tabla() {
